@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashutosh Singh - @ats7800
+# Hi, I’m Ashutosh Singh - @ats7800
 - 👀 I’m interested in web and mobile app developement and building Arduino based projects
 - 🌱 I’m currently learning AI/ML, and Arduino, Esp, and Raspberry pi
 - 💞️ I’m looking to collaborate on anything related to above listed or something else that seems even slightest of intresting
